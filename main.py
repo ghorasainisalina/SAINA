@@ -13,6 +13,3 @@ print(f"Union: {set1.union(set2)}")
 print(f"Intersection: {set1.intersection(set2)}")
 print(f"Difference: {set1.difference(set2)}")
 
-# Adding to sets
-colors.add("yellow")
-print(f"After adding yellow: {colors}")
